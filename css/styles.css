@@ -46,7 +46,9 @@ line-height: 1.17;
     color: #2e2f42;}
     
 .menu-link:hover,
-.menu-link:focus{color: #404BBF;}
+.menu-link:focus{
+    color: #404BBF;
+}
 
 .contact-link{
 font-size: 16px;
@@ -55,10 +57,14 @@ letter-spacing: 0.02em;
 color: var(--secondary-color-text);}
 
 .contact-link:hover,
-.contact-link:focus{color: #404BBF;}
+.contact-link:focus{
+    color: #404BBF;
+}
 
 .button-hero:hover,
-.button-hero:focus{background-color: #404BBF; }
+.button-hero:focus{
+    background-color: #404BBF; 
+}
 
 .text-hero{
 font-weight: 700;
